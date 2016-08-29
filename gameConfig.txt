@@ -1,0 +1,31 @@
+PvC = false 								//Spiller mot computer? 
+playerColor = true 						//true = white
+invertedPrint = false 					//Skriv ut brettet feil vei
+
+
+
+kjerner = 4 							//Hvor mange kjerner
+rec = 3 								//Antall trekk frem
+	
+
+
+randomizeConfig = false 					//Legg en tilfeldighet i configen til sort
+
+
+
+tracePieceUpdate 		= false 			//Piece name from update() and control
+tracePieceUpdateName 	= false 			//Piece name from update() 
+tracePossibleMoves 		= false 
+traceThreads 			= false 			//Traces each threads best move
+traceFindBestMove 		= false 			//Traces each findBestMove call
+tracePieceScore 		= false 
+tracePieces 			= false 
+traceNewChessboard 		= false 
+traceNewChessboardPieces= false 
+traceControl 			= false 			//Printing information before each board
+traceControlRemove 		= false 			//Tracing change in method
+traceControlAdd 		= false 			//Tracing change in method
+tracePlayerMove 		= false 			//Printing information after player move
+printComputer 			= false 
+traceMate 				= false 
+traceAllPlayableMoves 	= false 			//Tracing all actions before the move
