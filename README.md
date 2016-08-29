@@ -1,3 +1,3 @@
 # ChessEngine
 
-En uleslig chess-engine skrevet i java 
+En uleselig chess-engine skrevet i java 
