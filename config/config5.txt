@@ -1,0 +1,6 @@
+1.0 brikkeverdi
+0.001 sentralverdi
+0.001 langtfremmeverdi
+0.005 dekkefelterverdi
+0.0 angrepsverdi
+0.0 forsvarsverdi
